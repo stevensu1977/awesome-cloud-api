@@ -1,6 +1,6 @@
 # Awesome-cloud-api
 
-  [中文文档](https://github.com/stevensu1977/awesome-cloud-api/blob/master/README_ZH.md)
+  [中文文档](https://github.com/stevensu1977/awesome-cloud-api/blob/master/README_CN.md)
 
   There have multiple public cloud provider ,  I collection some awesome cloud api integration project , include I create that my work need.
 
